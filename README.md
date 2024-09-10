@@ -68,7 +68,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the [UNILicense](LICENSE). 
+This project is licensed under the [UNLicense](LICENSE). 
 
 ## Enjoy!
 
