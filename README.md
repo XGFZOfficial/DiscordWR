@@ -74,4 +74,9 @@ This project is licensed under the [UNLicense](LICENSE).
 
 If you have any questions or run into issues, feel free to reach out or open an issue on GitHub.
 
-**XGFZTeam**
+## Share With a Friend
+
+![ ](https://api.qrserver.com/v1/create-qr-code/?data=https://github.com/XGFZOfficial/DiscordWR&size=150x150)
+
+## Made By
+XGFZTeam
